@@ -1,0 +1,15 @@
+c:\users\vestel\documents\visual studio 2013\Projects\kütüphane\kütüphane\bin\Debug\kütüphane.exe.config
+c:\users\vestel\documents\visual studio 2013\Projects\kütüphane\kütüphane\bin\Debug\kütüphane.exe
+c:\users\vestel\documents\visual studio 2013\Projects\kütüphane\kütüphane\bin\Debug\kütüphane.pdb
+c:\users\vestel\documents\visual studio 2013\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.csprojResolveAssemblyReference.cache
+c:\users\vestel\documents\visual studio 2013\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.Form1.resources
+c:\users\vestel\documents\visual studio 2013\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.Properties.Resources.resources
+c:\users\vestel\documents\visual studio 2013\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.GenerateResource.Cache
+c:\users\vestel\documents\visual studio 2013\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.exe
+c:\users\vestel\documents\visual studio 2013\Projects\kütüphane\kütüphane\obj\Debug\kütüphane.pdb
+G:\Vertabanı\Kütüphane çalışması\kütüphane\kütüphane\bin\Debug\kütüphane.exe.config
+G:\Vertabanı\Kütüphane çalışması\kütüphane\kütüphane\obj\Debug\kütüphane.exe
+G:\Vertabanı\Kütüphane çalışması\kütüphane\kütüphane\obj\Debug\kütüphane.pdb
+E:\Vertabanı\Kütüphane çalışması\kütüphane\kütüphane\bin\Debug\kütüphane.exe.config
+E:\Vertabanı\Kütüphane çalışması\kütüphane\kütüphane\obj\Debug\kütüphane.exe
+E:\Vertabanı\Kütüphane çalışması\kütüphane\kütüphane\obj\Debug\kütüphane.pdb
